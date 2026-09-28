@@ -3,7 +3,16 @@
   <channel>
     <title>Speakeasy</title>
     <link>https://github.com/cmtemkin/speakeasy-releases</link>
-    <description>Speakeasy updates</description>
+    <description>Speakeasy for Mac: updates</description>
     <language>en</language>
+    <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Mon, 28 Sep 2026 21:14:40 +0000</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First public build with auto-updates. Hold Fn to dictate; tap Space while holding to Polish with local AI. Includes per-app auto-polish, dictionary suggestions, Edit Last Dictation, and the new Speakeasy look.</li></ul>]]></description>
+      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.2.0/Speakeasy-0.2.0.zip" length="14017484" type="application/octet-stream" sparkle:edSignature="7YAFAaJalAIqvBM3OiVfH/XeyjFEiqRCuBnkhnrYqX+OlA9qUqgMIrSDOYTCGGymch0JYahAgeZNnpHbJtJtBg=="/>
+    </item>
   </channel>
 </rss>
