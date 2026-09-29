@@ -6,6 +6,15 @@
     <description>SayWrite for Mac: updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.1</title>
+      <pubDate>Tue, 29 Sep 2026 02:05:54 +0000</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Subtler result pill: a small check and your text, on screen for 4 seconds. Hover it to see the full text and copy it. Buttons show icons when space is tight instead of cut-off labels.</li></ul>]]></description>
+      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.3.1/SayWrite-0.3.1.zip" length="13190795" type="application/octet-stream" sparkle:edSignature="gytp+bXuRiwL+cqG87H+0Xzug5Esny+Yt5SYHpgM/KUdDt8sVmc/q16bmoKHJR+xrK3Euk2vzvlc5NSrqbOXDA=="/>
+    </item>
+    <item>
       <title>Version 0.3.0</title>
       <pubDate>Tue, 29 Sep 2026 01:36:25 +0000</pubDate>
       <sparkle:version>55</sparkle:version>
