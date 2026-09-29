@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Speakeasy</title>
+    <title>SayWrite</title>
     <link>https://github.com/cmtemkin/speakeasy-releases</link>
-    <description>Speakeasy for Mac: updates</description>
+    <description>SayWrite for Mac: updates</description>
     <language>en</language>
+    <item>
+      <title>Version 0.3.0</title>
+      <pubDate>Tue, 29 Sep 2026 01:36:25 +0000</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Speakeasy is now SayWrite: new name, new icon, and a new look. New Appearance settings: Match System, Studio (dark), Studio Light, and High Contrast, all checked against WCAG AA. Your settings and history carry over.</li></ul>]]></description>
+      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.3.0/SayWrite-0.3.0.zip" length="13145425" type="application/octet-stream" sparkle:edSignature="UTgKdnMqBjXytmIB3jwVaWqI2KQ1mUkxpY0LQOgfa6rtQmjSlvz0oy+VmGa4Zud+50brxh/I8FSMDEA3ExatCw=="/>
+    </item>
     <item>
       <title>Version 0.2.0</title>
       <pubDate>Mon, 28 Sep 2026 21:14:40 +0000</pubDate>
