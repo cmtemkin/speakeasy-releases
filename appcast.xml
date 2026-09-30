@@ -6,6 +6,15 @@
     <description>SayWrite for Mac: updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.0</title>
+      <pubDate>Wed, 30 Sep 2026 02:32:47 +0000</pubDate>
+      <sparkle:version>75</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>SayWrite 0.4.0: now signed and notarized by Apple (opens without warnings). New: Per-App Polish page with custom instructions per app, a default for everywhere else, and suggestions. Subscriptions: 14-day free trial, then $5/month or $30/year. Result pill now expands on click instead of hover. After updating, re-enable SayWrite in System Settings › Privacy &amp; Security › Accessibility (macOS asks once because the app is now signed with a Developer ID).</li></ul>]]></description>
+      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.4.0/SayWrite-0.4.0.zip" length="13797102" type="application/octet-stream" sparkle:edSignature="PlLQn+PjZamNMTNEocBLP7GrCbNqB1RxMOqE8NboHNqmpDbcQmDo0w4tc94viXwzpUrr2cgVPZTx6BQPQIvQAw=="/>
+    </item>
+    <item>
       <title>Version 0.3.1</title>
       <pubDate>Tue, 29 Sep 2026 02:05:54 +0000</pubDate>
       <sparkle:version>59</sparkle:version>
