@@ -6,6 +6,15 @@
     <description>SayWrite for Mac: updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.1</title>
+      <pubDate>Wed, 30 Sep 2026 03:16:25 +0000</pubDate>
+      <sparkle:version>77</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>SayWrite 0.4.1: the AI page now shows only the engines your Mac actually has. Apple Intelligence is listed first; Ollama and LM Studio appear grayed out with a download link if they aren&apos;t installed, and their server and model settings only show up once they are.</li></ul>]]></description>
+      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.4.1/SayWrite-0.4.1.zip" length="13819168" type="application/octet-stream" sparkle:edSignature="K6Pouh17s8PjIQQGGx0bIbh+t4+4rRcXJrBOrpohDGiXmpCqpg2TgimpCiqngIQyJRL+Tc/6XTSKI1soEhY0BA=="/>
+    </item>
+    <item>
       <title>Version 0.4.0</title>
       <pubDate>Wed, 30 Sep 2026 02:32:47 +0000</pubDate>
       <sparkle:version>75</sparkle:version>
