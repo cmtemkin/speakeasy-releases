@@ -6,6 +6,15 @@
     <description>SayWrite for Mac: updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.2</title>
+      <pubDate>Thu, 01 Oct 2026 01:57:12 +0000</pubDate>
+      <sparkle:version>81</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>SayWrite 0.4.2: Per-app templates: write your own prompt with an example of the exact output you want, test it in the editor, and assign it to any app (or everywhere else). Three starter templates included. Redesigned AI page with engine cards for Apple Intelligence, Ollama and LM Studio, one-click Start Server for LM Studio, and simpler routing. Open-source credits now in About SayWrite.</li></ul>]]></description>
+      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.4.2/SayWrite-0.4.2.zip" length="14042438" type="application/octet-stream" sparkle:edSignature="dzVZNahCRTttDZycGkfxbRsUr2r66z+gTZA5LREAJiFhuSeeT0bTf2yi0Lan1p1uJOjFNN9M5CxQmWTeiXhLAA=="/>
+    </item>
+    <item>
       <title>Version 0.4.1</title>
       <pubDate>Wed, 30 Sep 2026 03:16:25 +0000</pubDate>
       <sparkle:version>77</sparkle:version>
