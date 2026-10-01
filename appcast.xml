@@ -6,6 +6,15 @@
     <description>SayWrite for Mac: updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.5</title>
+      <pubDate>Thu, 01 Oct 2026 03:51:54 +0000</pubDate>
+      <sparkle:version>95</sparkle:version>
+      <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>SayWrite 0.4.5: The menu bar icon now starts on the right side of the menu bar, so it isn&apos;t hidden behind the MacBook camera notch on crowded menu bars (⌘-drag it anywhere you like). The text preview after dictating is a little shorter.</li></ul>]]></description>
+      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.4.5/SayWrite-0.4.5.zip" length="14238678" type="application/octet-stream" sparkle:edSignature="piwB9bpug43AC7pV61qjgN2fQq1XmJqUVRAvpt+cUKSUA0hzifpmFx90zteSmxRU6m1G8oxBH0Q6mFUOUFzwAQ=="/>
+    </item>
+    <item>
       <title>Version 0.4.4</title>
       <pubDate>Thu, 01 Oct 2026 03:34:46 +0000</pubDate>
       <sparkle:version>94</sparkle:version>
