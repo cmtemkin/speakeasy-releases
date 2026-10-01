@@ -6,6 +6,15 @@
     <description>SayWrite for Mac: updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.3</title>
+      <pubDate>Thu, 01 Oct 2026 02:41:34 +0000</pubDate>
+      <sparkle:version>89</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>SayWrite 0.4.3: Sign in with your email instead of a license key: Settings › License › Sign in with email, then click the link. A subscription works on 2 Macs; see and manage your Macs at saywrite.app/account. The result pill now expands when you hover and opens the editor when you click it (no more flicker). Cleaner text fields throughout.</li></ul>]]></description>
+      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.4.3/SayWrite-0.4.3.zip" length="14182975" type="application/octet-stream" sparkle:edSignature="0pfrnW2KSmiqrlaFeIRhlpc1KkO0SMDStBR4xa+gunbTxh6C4WmhxyleLtGc1dR6zZW4TsPLeFZ1KNnQmuB1Dg=="/>
+    </item>
+    <item>
       <title>Version 0.4.2</title>
       <pubDate>Thu, 01 Oct 2026 01:57:12 +0000</pubDate>
       <sparkle:version>81</sparkle:version>
