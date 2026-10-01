@@ -6,6 +6,15 @@
     <description>SayWrite for Mac: updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.6</title>
+      <pubDate>Thu, 01 Oct 2026 13:33:05 +0000</pubDate>
+      <sparkle:version>98</sparkle:version>
+      <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>SayWrite 0.4.6: Subscription licenses now check in with saywrite.app about once a week (sending only the license), so removing a Mac from your account takes effect within days. Dictation still never needs the internet.</li></ul>]]></description>
+      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.4.6/SayWrite-0.4.6.zip" length="14239340" type="application/octet-stream" sparkle:edSignature="Ivwt0V1zcDH4KfoMyocuYzwR6KhTzyLNBNjw0ascNaiHdcGc07CYkMdpS0DE+PcIHybaH3OJt589NB91lUdhCA=="/>
+    </item>
+    <item>
       <title>Version 0.4.5</title>
       <pubDate>Thu, 01 Oct 2026 03:51:54 +0000</pubDate>
       <sparkle:version>95</sparkle:version>
