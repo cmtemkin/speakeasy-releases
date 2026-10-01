@@ -6,6 +6,15 @@
     <description>SayWrite for Mac: updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.4</title>
+      <pubDate>Thu, 01 Oct 2026 03:34:46 +0000</pubDate>
+      <sparkle:version>94</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>SayWrite 0.4.4: New menu bar icon: the SayWrite squiggle (with a red dot while you dictate) instead of a microphone, so it no longer doubles up with macOS&apos;s microphone indicator. Free trials now start on saywrite.app (14 days free, then your plan; you&apos;re reminded before any charge). If you&apos;re already in a trial or subscribed, nothing changes. The text preview after dictating now stays a little shorter.</li></ul>]]></description>
+      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.4.4/SayWrite-0.4.4.zip" length="14239177" type="application/octet-stream" sparkle:edSignature="8iqlUk3YaPxZ35R1BVesneR3AlsPYfnaJXjrloLljrih3/KjrP+ZhOgK3FVHCK6k7qoTv9MNc8xiV1kW5QYrAw=="/>
+    </item>
+    <item>
       <title>Version 0.4.3</title>
       <pubDate>Thu, 01 Oct 2026 02:41:34 +0000</pubDate>
       <sparkle:version>89</sparkle:version>
