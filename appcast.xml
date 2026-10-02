@@ -6,13 +6,13 @@
     <description>SayWrite for Mac: updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.4.7</title>
-      <pubDate>Fri, 02 Oct 2026 00:22:24 +0000</pubDate>
-      <sparkle:version>101</sparkle:version>
-      <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
+      <title>Version 0.4.8</title>
+      <pubDate>Fri, 02 Oct 2026 01:41:41 +0000</pubDate>
+      <sparkle:version>103</sparkle:version>
+      <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>New: Send Feedback (menu bar right-click, Help menu, or Settings › Privacy). Tell us about bugs and ideas straight from the app. Nothing is sent until you click Send, and you can see exactly what&apos;s included.</li><li>Small fixes and polish.</li></ul>]]></description>
-      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.4.7/SayWrite-0.4.7.zip" length="14377235" type="application/octet-stream" sparkle:edSignature="gYndZq0aY5sWZO/TQ5EFCcbPBme6+JGXorWXffoCq7fzRFYwIgRlG+gnYFUCyBOiTXG8t+C7kHFdsa9FgwQOBg=="/>
+      <description><![CDATA[<ul><li>The preview pill no longer expands just because it popped up under your mouse. Move the mouse onto it to see the full text, or click it to edit.</li></ul>]]></description>
+      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.4.8/SayWrite-0.4.8.zip" length="14378239" type="application/octet-stream" sparkle:edSignature="EavDkSHnC4FEs8JJfAq3mwqV9xaxOdGk6/8AnsEt+X1hPBE5XQR5bS6Cc7JlhST7bq1DyxCC2ThpwWB12J15Ag=="/>
     </item>
   </channel>
 </rss>
