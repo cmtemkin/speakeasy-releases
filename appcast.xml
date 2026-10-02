@@ -6,13 +6,13 @@
     <description>SayWrite for Mac: updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.4.8</title>
-      <pubDate>Fri, 02 Oct 2026 01:41:41 +0000</pubDate>
-      <sparkle:version>103</sparkle:version>
-      <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
+      <title>Version 0.4.9</title>
+      <pubDate>Fri, 02 Oct 2026 01:49:08 +0000</pubDate>
+      <sparkle:version>105</sparkle:version>
+      <sparkle:shortVersionString>0.4.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>The preview pill no longer expands just because it popped up under your mouse. Move the mouse onto it to see the full text, or click it to edit.</li></ul>]]></description>
-      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.4.8/SayWrite-0.4.8.zip" length="14378239" type="application/octet-stream" sparkle:edSignature="EavDkSHnC4FEs8JJfAq3mwqV9xaxOdGk6/8AnsEt+X1hPBE5XQR5bS6Cc7JlhST7bq1DyxCC2ThpwWB12J15Ag=="/>
+      <description><![CDATA[<ul><li>When you hover a dictation to see the full text, the box is now only as tall as the text (up to 8 lines, then it scrolls), instead of a big empty box.</li><li>The preview no longer expands just because it popped up under your mouse.</li></ul>]]></description>
+      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.4.9/SayWrite-0.4.9.zip" length="14381962" type="application/octet-stream" sparkle:edSignature="1VxZAZL3VX0vqkYWdp+sGZYMjILqf53YLISs+NGGI/6pAg7/yW+7wZfsBFYezGTHw7tTavZbPZkNPWpE7uiaDQ=="/>
     </item>
   </channel>
 </rss>
