@@ -6,13 +6,13 @@
     <description>SayWrite for Mac: updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.4.9</title>
-      <pubDate>Fri, 02 Oct 2026 01:49:08 +0000</pubDate>
-      <sparkle:version>105</sparkle:version>
-      <sparkle:shortVersionString>0.4.9</sparkle:shortVersionString>
+      <title>Version 0.5.0</title>
+      <pubDate>Thu, 22 Oct 2026 20:04:52 +0000</pubDate>
+      <sparkle:version>107</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>When you hover a dictation to see the full text, the box is now only as tall as the text (up to 8 lines, then it scrolls), instead of a big empty box.</li><li>The preview no longer expands just because it popped up under your mouse.</li></ul>]]></description>
-      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.4.9/SayWrite-0.4.9.zip" length="14381962" type="application/octet-stream" sparkle:edSignature="1VxZAZL3VX0vqkYWdp+sGZYMjILqf53YLISs+NGGI/6pAg7/yW+7wZfsBFYezGTHw7tTavZbPZkNPWpE7uiaDQ=="/>
+      <description><![CDATA[<ul><li>Try SayWrite free for 7 days, no card and no account. The trial starts the first time you open the app; when it ends, buy SayWrite to keep dictating ($5 a month or $30 a year). Your history, dictionary and settings stay put.</li></ul>]]></description>
+      <enclosure url="https://github.com/cmtemkin/speakeasy-releases/releases/download/v0.5.0/SayWrite-0.5.0.zip" length="14404435" type="application/octet-stream" sparkle:edSignature="8JePCMpNgDl8PhMFsjEU+ccUj5ke9Vx+Cudhxm0eDTzfMoiIyreWKqHWCTC6IlPGWvfMGsnnxeiABQJ5oMQxBg=="/>
     </item>
   </channel>
 </rss>
